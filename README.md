@@ -1,8 +1,6 @@
 # Crypto.io
 
 A cryptocurrency tracking web application built with React, Tailwind CSS, and Material UI.
-In this project i have user Reactjs,tsx,tailwind.css.material.ui,schadcn etc.
-This is a Landing page.
 
 ## Live Demo
 
