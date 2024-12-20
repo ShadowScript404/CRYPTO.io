@@ -10,7 +10,7 @@ You can view the live version of the project by clicking the link below:
 
 ## Description
 
-This app allows users to track cryptocurrency prices in real-time using various APIs. It's built with modern web technologies like React, Vite, and Tailwind CSS to provide a responsive and fast user experience.
+It's built with modern web technologies like React, Vite, and Tailwind CSS, schadcn etc; to provide a responsive and fast user experience.
 
 
 # React + Vite
